@@ -1,0 +1,17 @@
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\libhostpolicy.dylib
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\libhostfxr.dylib
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\xunit.runner.utility.netstandard15.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\xunit.runner.reporters.netstandard15.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.deps.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.runtimeconfig.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.runtimeconfig.dev.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.pdb
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.pdb
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.AssemblyInfo.cs
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Release\netcoreapp1.1\osx.10.10-x64\DragonsOfMugloar.Tests.pdb

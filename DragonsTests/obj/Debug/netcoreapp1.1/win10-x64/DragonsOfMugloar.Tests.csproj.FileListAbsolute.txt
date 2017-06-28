@@ -1,0 +1,17 @@
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\hostpolicy.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\hostfxr.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.exe
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\xunit.runner.utility.netstandard15.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\xunit.runner.reporters.netstandard15.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.exe
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.deps.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.runtimeconfig.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.runtimeconfig.dev.json
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.pdb
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\bin\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.pdb
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.AssemblyInfo.cs
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.dll
+C:\Users\KingMony\Desktop\XUnitTestProject1\obj\Debug\netcoreapp1.1\win10-x64\DragonsOfMugloar.Tests.pdb
